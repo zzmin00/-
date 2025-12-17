@@ -1,0 +1,5 @@
+{
+  "name": "면압 평가",
+  "description": "Intelligent Excel processor for material testing data. Automates the extraction of specimen metadata and compression test results into standardized formats.",
+  "requestFramePermissions": []
+}
